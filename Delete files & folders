@@ -1,0 +1,2 @@
+rm file name     # Delete a file
+rm -r test       # Delete folder + its contents
