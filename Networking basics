@@ -1,0 +1,4 @@
+ifconfig             # Show network interfaces (needs net-tools)
+ip addr              # Alternative to ifconfig (modern Linux)
+ping google.com      # Test connectivity
+curl ifconfig.me     # Show your public IP
