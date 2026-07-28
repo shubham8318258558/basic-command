@@ -1,0 +1,7 @@
+touch                       # Create an empty file
+cat                         # Read file content
+cat > file name             # Create + Write content
+CTRL + D                    # Save & exit
+cat >> file name            # Append content in existing file
+CTRL + D                    # Save & exit
+cat file name1 file name2   # Read multiple files at once
