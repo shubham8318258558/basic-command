@@ -1,0 +1,3 @@
+ps aux             # Show running processes
+top                # Live process monitoring
+kill -9 <PID>      # Kill a process by its ID
