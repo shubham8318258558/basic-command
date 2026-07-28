@@ -1,0 +1,5 @@
+pwd            # Show current directory (Print Working Directory)
+ls             # List files/folders in current directory
+ls -la         # Show hidden files with details
+cd desktop     # Move into Desktop folder
+cd ..          # Go one step back
