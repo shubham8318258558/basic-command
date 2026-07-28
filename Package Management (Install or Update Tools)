@@ -1,0 +1,4 @@
+sudo apt update             # Update repositories
+sudo apt upgrade            # Upgrade all packages
+sudo apt install nmap       # Install a tool (e.g., Nmap)
+nmap -v google.com          # Simple port scan
