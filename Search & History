@@ -1,0 +1,3 @@
+history                     # Show previously used commands
+grep "keyword" file name    # Search for a word inside a file
+man ls                      # Manual/help for ls command
